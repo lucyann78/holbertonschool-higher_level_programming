@@ -1,0 +1,1 @@
+This directory contains implementations and examples of fundamental data structures in Python, specifically focusing on lists and tuples. These data structures are essential for organizing and manipulating data efficiently.
