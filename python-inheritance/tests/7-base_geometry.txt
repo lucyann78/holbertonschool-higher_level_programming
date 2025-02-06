@@ -1,0 +1,5 @@
+Test Results for BaseGeometry:
+- Validating integer (12): Passed
+- Validating integer ("John"): TypeError
+- Validating integer (0): ValueError
+- Validating integer (-4): ValueError
