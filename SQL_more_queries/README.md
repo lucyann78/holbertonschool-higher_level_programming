@@ -1,0 +1,1 @@
+This project explores advanced SQL queries and database management techniques. It covers topics such as user management, privileges, constraints, and data retrieval from multiple tables. By the end of this project, you will have a deeper understanding of MySQL queries and how to manipulate databases efficiently.
